@@ -1,4 +1,8 @@
-lFstAPI勉強用のブランチ
+# FASTAPI勉強用
 
+## 参考サイト
+https://www.udemy.com/course/python-fastapi/learn/
 
-python -m pip install requests
+## pip install　ヒント
+
+- python -m pip install requests
